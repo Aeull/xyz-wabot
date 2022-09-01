@@ -1,6 +1,6 @@
 {
-    "name": "dobdabot",
-    "version": "1.0.87",
+    "name": "ArullBotz",
+    "version": "2.2.5",
     "description": "Jika Bot Mengalami Error/Tidak Berfungsi/Kamu Menemukan Bug, Langsung Laporkan Ke Owner. Terimakasih",
     "depecrated": false,
     "main": "index.js",
